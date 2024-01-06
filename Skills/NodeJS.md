@@ -86,11 +86,11 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 🎓 known
+  - UDP: 🎓 known
+  - TLS: 🎓 known
+  - Websocket: 🎓 known
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
@@ -102,7 +102,7 @@
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS: 🎓 known
   - Fetch API
   - IncomingMessage
   - SQL injection
@@ -123,7 +123,7 @@
   - Transform
   - back pressure
   - Buffer
-  - Console
+  - Console: 🖐️ used
   - Inspector
   - Reliability
   - Quality
@@ -131,7 +131,7 @@
   - Flexibility
 - Data access
   - Data access layer
-  - Repository
+  - Repository: 🖐️ used
   - Active record
   - Query builder
   - Object-Relational Mapping
