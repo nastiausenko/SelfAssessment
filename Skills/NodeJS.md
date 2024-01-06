@@ -73,7 +73,7 @@
   - Highload applications
   - Clean architecture
   - DDD
-  - Message Queue
+  - Message Queue: 👂 heard
   - CQS
   - CQRS
   - Event sourcing
@@ -91,44 +91,44 @@
   - UDP: 🎓 known
   - TLS: 🎓 known
   - Websocket: 🎓 known
-  - SSE
+  - SSE: 👂 heard
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST: 🎓 known
   - RPC
-  - Routing
-  - DoS
+  - Routing: 🎓 known
+  - DoS: 👂 heard
   - DDoS
   - XSS
   - Path traversal
   - CSRF
-  - DNS: 🎓 known
+  - DNS 🎓 known
   - Fetch API
   - IncomingMessage
-  - SQL injection
-  - noDelay
-  - keep-alive
+  - SQL injection: 🎓 known
+  - noDelay: 👂 heard
+  - keep-alive: 👂 heard
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates: 👂 heard
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging: 🎓 known
   - Application configuring
-  - Testing
+  - Testing: 🎓 known
   - CI/CD
-  - Readable
-  - Writable
+  - Readable: 🎓 known
+  - Writable: 🎓 known
   - Transform
   - back pressure
-  - Buffer
+  - Buffer: 🎓 known
   - Console: 🖐️ used
   - Inspector
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
 - Data access
   - Data access layer
   - Repository: 🖐️ used
@@ -136,19 +136,19 @@
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error: 🎓 known
+  - error.cause: 👂 heard
+  - error.code: 👂 heard
+  - error.message: 👂 heard
+  - error.stack: 👂 heard
   - How to avoid mixins
   - Error.captureStackTrace
-  - Uncaught exceptions
+  - Uncaught exceptions: 👂 heard
   - Heap dump
-  - Debugging tools
+  - Debugging tools: 🎓 known
   - Flame graph
-  - Memory leaks
-  - Resource leaks
+  - Memory leaks: 🎓 known
+  - Resource leaks: 🎓 known
   - Data race
 - Integrations and bindings
   - Native addons

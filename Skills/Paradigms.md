@@ -2,24 +2,24 @@
 
 - Theory
   - Procedural programming: 🖐️ used
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
+  - Imperative programming: 👂 heard
+  - Structured programming: 👂 heard
+  - Non-structured programming: 👂 heard
+  - Functional programming: 🎓 known
+  - Prototype-based programming: 👂 heard
   - Object-oriented programming: 🖐️ used
-  - Object-based programming
+  - Object-based programming: 👂 heard
   - Generic programming: 🎓 known
-  - Concurrent computing
+  - Concurrent computing: 👂 heard
   - Asynchronous programming: 🖐️ used
   - Parallel programming: 🎓 known
-  - Reactive programming
-  - FRP (Functional-reactive)
-  - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
+  - Reactive programming: 👂 heard
+  - FRP (Functional-reactive): 👂 heard
+  - Automata-based programming: 👂 heard
+  - Domain-specific languages: 🎓 known
+  - Multi-paradigm programming: 🎓 known
+  - Metaprogramming: 🎓 known
+  - Actor model: 👂 heard
 - OOP basics
   - constructor: 🖐️ used
   - new: 🖐️ used
@@ -39,28 +39,28 @@
   - Hidden class: 👂 heard
   - Object form: 🎓 known
   - instance: 🎓 known
-  - Introspection
-  - Reflection
+  - Introspection: 👂 heard
+  - Reflection: 👂 heard
 - Patterns
-  - Singleton: 👂 heard
-  - Factory Method
-  - Abstract Factory
+  - Singleton: 🖐️ used
+  - Factory Method: 🎓 known
+  - Abstract Factory: 🎓 known
   - Adapter
   - Observer
-  - Strategy
+  - Strategy: 👂 heard
   - Facade
-  - Proxy: 👂 heard
-  - Chain of Responsibility
-  - Command
+  - Proxy: 🎓 known
+  - Chain of Responsibility: 👂 heard
+  - Command: 👂 heard
   - Iterator:  👂 heard
   - State: 👂 heard
-  - Bridge
-  - Builder: 👂 heard
+  - Bridge: 👂 heard
+  - Builder: 🎓 known
   - Prototype: 👂 heard
-  - Composite
-  - Decorator: 👂 heard
+  - Composite: 👂 heard
+  - Decorator: 🎓 known
   - Flyweight
-  - Mediator
+  - Mediator: 🎓 known
   - Memento
-  - Template Method
-  - Visitor
+  - Template Method: 🎓 known
+  - Visitor: 🎓 known

@@ -6,9 +6,9 @@
   - variable: 🖐️ used
   - constant: 🖐️ used
   - scalar: 👂 heard
-  - literal
+  - literal: 🖐️ used
   - expression: 🖐️ used
-  - heap
+  - heap: 🎓 known
   - function: 🖐️ used
   - procedure: 👂 heard
   - method: 🖐️ used
@@ -17,18 +17,18 @@
   - event: 🖐️ used
   - type: 🖐️ used
   - primitive types: 🖐️ used
-  - reference types
+  - reference types: 🖐️ used
   - flag: 👂 heard
-  - lexical scope
-  - code block
-  - conditions
+  - lexical scope: 🎓 known
+  - code block: 🎓 known
+  - conditions: 🎓 known
   - loops: 🖐️ used
-  - assignment
+  - assignment: 🎓 known
   - regular expression: 🖐️ used
   - interface: 🖐️ used
-  - contract
+  - contract: 🎓 known
   - module: 🖐️ used
-  - call stack
+  - call stack: 🎓 known
 - Functions
   - signature: 🖐️ used
   - argument: 🖐️ used
@@ -36,50 +36,50 @@
   - pure function: 👂 heard
   - lambda expression: 🖐️ used
   - side effects
-  - closure: 👂 heard
-  - partial application
-  - curry: 👂 heard
-  - higher order
-  - recursion: 👂 heard
+  - closure: 🎓 known
+  - partial application: 👂 heard
+  - curry: 🎓 known
+  - higher order: 👂 heard
+  - recursion: 🎓 known
   - callback: 🖐️ used
   - listener: 🖐️ used
   - compose: 🖐️ used
   - pipe: 👂 heard
   - memoize
-  - wrapper: 👂 heard
+  - wrapper: 🎓 known
   - functor
   - monad
   - monoid
-  - generator
+  - generator: 👂 heard
   - coroutine
 - Data structures
-  - array :️ 🖐️ used
-  - structure: 👂 heard
-  - record
+  - array: 🖐️ used
+  - structure: 🎓 known
+  - record: 🎓 known
   - enum: 🎓 known
-  - instance: 👂 heard
+  - instance: 🎓 known
   - object: 🖐️ used
   - class: 🖐️ used
   - collection: 🖐️ used
   - set: 🎓 known
   - hash table: 👂 heard
   - linked list: 🖐️ used
-  - doubly list
-  - unrolled list
-  - circular list
+  - doubly list: 👂 heard
+  - unrolled list: 👂 heard
+  - circular list: 👂 heard
   - queue: 🖐️ used
   - stack: 🖐️ used
   - deque: 🎓 known
   - tree: 🎓 known
   - graph: 🎓 known
   - iterator: 🖐️ used
-  - mutable state
-  - immutable state
-  - serialization: 👂 heard
+  - mutable state: 🎓 known
+  - immutable state: 🎓 known
+  - serialization: 🎓 known
   - string parsing: 🎓 known
 - Process & style
   - compiler: 🎓 known
-  - transpiler
+  - transpiler: 🎓 known
   - linter: 🖐️ used
   - polyfill
   - debugger: 🖐️ used
@@ -94,13 +94,13 @@
   - complexity: 🎓 known
   - decomposition: 🎓 known
   - spaghetti: 🎓 known
-  - silver bullet
-  - not invented here
+  - silver bullet: 👂 heard
+  - not invented here: 👂 heard
   - dead code: 🎓 known
   - unreachable code: 🎓 known
   - duplicate code: 🎓 known
   - exception: 🎓 known
-  - return early
-  - unittest: 👂 heard
-  - git: ️ 🖐️ used
+  - return early: 🎓 known
+  - unittest: 🎓 known
+  - git: 🖐️ used
   - github: 🖐️ used
