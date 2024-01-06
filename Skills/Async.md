@@ -2,7 +2,7 @@
 
 - Theory
   - Event loop: 👂 heard
-  - try..catch: 👂 heard
+  - try..catch: 🖐️ used
   - Non-blocking: 👂 heard
   - Async I/O: 👂 heard
   - Thread pool
@@ -19,8 +19,8 @@
   - Concurrent programming: 👂 heard
   - Parallel programming: 👂 heard
   - Actor Model
-  - Thread: 👂 heard
-  - Process: 👂 heard
+  - Thread: 🖐️ used
+  - Process: 🖐️ used
 - Async contracts
   - Callbacks: 🖐️ used
   - Callback-last-error-first
@@ -36,7 +36,7 @@
   - Coroutine
   - Goroutine
   - Signal
-  - Stream: 👂 heard
+  - Stream: 🎓 known
   - Chain of responsibility
   - Middleware
   - Locks: 👂 heard

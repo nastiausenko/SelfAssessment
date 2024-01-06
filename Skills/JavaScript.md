@@ -63,8 +63,8 @@
   - function declaration: 🖐️ used
   - function expression: 🖐️ used
   - return: 🖐️ used
-  - default parameters: 👂 heard
-  - functional object
+  - default parameters: 🎓 known
+  - functional object: 👂 heard
 - Data structures
   - Array: 🖐️ used
   - mixin
@@ -78,12 +78,12 @@
   - weak collections: 👂 heard
   - timers: 🎓 known
   - EventEmitter: 🖐️ used
-  - RegExp
+  - RegExp: 🎓 known
   - Date: 👂 heard
   - BigInt: 🎓 known
 - Infrastructure
-  - V8: 👂 heard
+  - V8:  👂 heard
   - Node.js: 🎓 known
   - npm: 🖐️ used
   - prettier: 🖐️ used
-  - MDN: 👂 heard
+  - MDN: 🖐️ used
